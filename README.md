@@ -29,3 +29,7 @@ To run examples given in this book, it is recommended that you have a Linux-flav
 
 * [Building Microservices with Go](https://www.packtpub.com/application-development/building-microservices-go?utm_source=github&utm_medium=repository&utm_campaign=9781786468666)
 
+## Testing documentation
+
+Test text goes here
+* [Test Link Text] (http://www.google.com)
